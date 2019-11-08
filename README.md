@@ -1,2 +1,2 @@
 # SignalFlux.github.io
-Pong game
+I created this Pong game as a Student at Propulsion Academy in Zürich, in the first week of the Full-Stack Bootcamp. 
